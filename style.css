@@ -257,7 +257,7 @@ a:focus {
 /* slider section */
 .slider_section {
   height: calc(100% - 80px);
-  background-image: url(../images/slider-bg.jpg);
+  background-image: url(slider-bg.jpg);
   background-size: cover;
 }
 
